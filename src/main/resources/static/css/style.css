@@ -1,0 +1,14 @@
+.navbar-brand{
+	padding-top: 12px;
+}
+
+body{
+  background-image: url(http://lorempixel.com.br/400/200/nature/);
+  background-repeat:no-repeat;
+  background-size: cover;
+ }
+ 
+  .panel-default {
+	margin-left: 10px;
+	margin-right: 10px;
+  }
